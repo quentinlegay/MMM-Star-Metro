@@ -55,7 +55,7 @@ A module that displays the next records from the Rennes Star metro.
   header: "Metro",
   position: "top_right",
   config: {
-    updateInterval: 30 // 30 seconds
+    updateInterval: 30, // 30 seconds
     stationName: "Saint-Anne",
     direction: 1,
     displayedRecords: 3
